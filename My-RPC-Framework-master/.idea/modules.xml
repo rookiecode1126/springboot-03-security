@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/My-RPC-Framework-master/My-RPC-Framework.iml" filepath="$PROJECT_DIR$/My-RPC-Framework-master/My-RPC-Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/My-RPC-Framework-master.iml" filepath="$PROJECT_DIR$/.idea/My-RPC-Framework-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My-RPC-Framework-master/rpc-api/rpc-api.iml" filepath="$PROJECT_DIR$/My-RPC-Framework-master/rpc-api/rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My-RPC-Framework-master/rpc-common/rpc-common.iml" filepath="$PROJECT_DIR$/My-RPC-Framework-master/rpc-common/rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My-RPC-Framework-master/rpc-core/rpc-core.iml" filepath="$PROJECT_DIR$/My-RPC-Framework-master/rpc-core/rpc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My-RPC-Framework-master/test-client/test-client.iml" filepath="$PROJECT_DIR$/My-RPC-Framework-master/test-client/test-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My-RPC-Framework-master/test-server/test-server.iml" filepath="$PROJECT_DIR$/My-RPC-Framework-master/test-server/test-server.iml" />
+    </modules>
+  </component>
+</project>
